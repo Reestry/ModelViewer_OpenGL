@@ -1,0 +1,74 @@
+﻿  FrameworkEntryPoint.cpp
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\Window.hpp(155,43): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "LONG"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\Window.hpp(155,43): warning C4302: приведение типов: усечение из "HBRUSH" к "LONG"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\UI\ListBox.hpp(50,21): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\UI\Menu\Menu.hpp(46,42): warning C4311: приведение типов: усечение указателя из "HMENU" в "UINT"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\UI\Menu\Menu.hpp(46,42): warning C4302: приведение типов: усечение из "HMENU" к "UINT"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\UI\Menu\Menu.hpp(64,42): warning C4311: приведение типов: усечение указателя из "HMENU" в "UINT"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Elements\UI\Menu\Menu.hpp(64,42): warning C4302: приведение типов: усечение из "HMENU" к "UINT"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(51,17): warning C4244: инициализация: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(52,17): warning C4244: инициализация: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(58,39): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(59,39): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(65,12): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(66,12): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(69,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\Mouse.hpp(69,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\GLContext.hpp(277,27): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\GLContext.hpp(277,20): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\Mesh.hpp(60,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\Mesh.hpp(80,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\Mesh.hpp(100,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\Mesh.hpp(125,26): warning C4305: аргумент: усечение из "int" в "char"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\Mesh.hpp(125,26): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\OpenGL\Mesh.hpp(314,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+C:\Users\user\Desktop\MyProject\MyProject\Framework\main.hpp(42,23): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Framework/FrameworkEntryPoint.cpp")
+  
+  MyProject.vcxproj -> C:\Users\user\Desktop\MyProject\MyProject\x64\Debug\MyProject.exe

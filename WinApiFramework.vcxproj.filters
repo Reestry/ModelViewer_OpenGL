@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Framework\main.hpp" />
+    <ClInclude Include="Framework\Elements\Args.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\libs.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\Msg.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\Transform.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\Window.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\WindowClass.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\Button.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\ButtonBase.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\CheckBox.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\CheckBox3.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\ComboBox.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\Input.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\ListBox.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\RadioButton.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\Text.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\UI.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\UILibs.hpp">
+      <Filter>WinAPI\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\Menu\Menu.hpp">
+      <Filter>WinAPI\UI\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Elements\UI\Menu\MenuItem.hpp">
+      <Filter>WinAPI\UI\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\UpdateCallbacks.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\GLContext.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\GLLibs.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Surface3.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Surface4.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Material.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Vertex.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\GameObject.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Keyboard.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Mouse.hpp">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Mesh.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL\Texture.hpp">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="WinAPI">
+      <UniqueIdentifier>{1dd2288b-007d-4bf0-8821-c1712e77cf2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WinAPI\UI">
+      <UniqueIdentifier>{dac7fd75-bef0-48c1-a674-e1f291b51651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WinAPI\UI\Menu">
+      <UniqueIdentifier>{3207b462-ef9b-4eaf-b389-519bcfe55bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OpenGL">
+      <UniqueIdentifier>{ac82ecfe-4494-4e46-a6b2-4da223a26ae2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Framework\FrameworkEntryPoint.cpp">
+      <Filter>WinAPI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
